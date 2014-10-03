@@ -11,5 +11,8 @@
   ],
   "scripts": [
     "rebound.js"
+  ],
+  "remotes": [
+    "https://raw.githubusercontent.com"
   ]
 }
